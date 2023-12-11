@@ -1,0 +1,26 @@
+# ninja log v5
+1477	2175	7231030724549727	CMakeFiles/Scorch.dir/src/rendering/mesh-objects/VertexBuffer.cpp.obj	bf46622ec15b90e9
+441	6912	7239195338779272	CMakeFiles/Scorch.dir/src/rendering/mesh-objects/VertexArray.cpp.obj	f73f2a48f9fbcb03
+8419	8702	7231030789406386	CMakeFiles/Scorch.dir/src/rendering/mesh-objects/IndexBuffer.cpp.obj	c421f1392caf8f4c
+139	9556	7239195367263169	CMakeFiles/Scorch.dir/src/rendering/Renderer.cpp.obj	523eb5b33c9c1b6e
+15029	17352	7239203032444426	Scorch.exe	19650b9a85f00676
+1457	12195	7231030824529429	CMakeFiles/Scorch.dir/src/rendering/MeshObject.cpp.obj	fe174b67bb29752
+16978	17322	7231030875967929	CMakeFiles/Scorch.dir/src/gui-implementation/GuiWrapper.cpp.obj	731fe4c099a869eb
+12	15013	7239203012219117	CMakeFiles/Scorch.dir/src/Application.cpp.obj	7791f731699caa66
+27814	31798	7231031020719266	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_widgets.cpp.obj	cc05e143f398e97d
+12332	16649	7231030869136766	CMakeFiles/Scorch.dir/src/rendering/shader-objects/Texture.cpp.obj	a5bbdc58d359e15a
+16650	19648	7231030899173483	CMakeFiles/Scorch.dir/src/glad.c.obj	13f2cbc8e30d5af2
+99	14488	7237633942713651	CMakeFiles/Scorch.dir/src/rendering/shader-objects/Shader.cpp.obj	cebb8eab2fae9970
+81	5180	7238040393191124	CMakeFiles/Scorch.dir/src/gui-implementation/GuiHandler.cpp.obj	7f50fc70405193ec
+21183	24075	7231030943407247	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_impl_glfw.cpp.obj	e8923fddb0eaa87a
+17322	26084	7231030963482321	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui.cpp.obj	6ac77e196bf29757
+24075	26180	7231030964562076	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_demo.cpp.obj	9dad74d7914f2a93
+23774	27969	7231030982432481	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_draw.cpp.obj	160c7b8d6ae1acf3
+26085	27813	7231030980881059	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_impl_opengl3.cpp.obj	db9d1237141d16af
+26181	29355	7231030996307567	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_tables.cpp.obj	84fa7544a8fa62ef
+27969	31032	7231031013088829	CMakeFiles/Scorch.dir/src/vendor/stb_image/stb_image.cpp.obj	c934109b566a7b12
+13351	13478	7237633932848206	CMakeFiles/Scorch.dir/src/physics/RigidBody.cpp.obj	c46156e91bf6976d
+16	17451	7239754604739912	CMakeFiles/Scorch.dir/src/Application.cpp.obj	7791f731699caa66
+17481	18957	7239754618114518	Scorch.exe	19650b9a85f00676
+13	9150	7239755921685952	CMakeFiles/Scorch.dir/src/Application.cpp.obj	7791f731699caa66
+9163	10419	7239755932632634	Scorch.exe	19650b9a85f00676

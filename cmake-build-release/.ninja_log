@@ -1,0 +1,27 @@
+# ninja log v5
+20594	30531	7238043266395372	CMakeFiles/Scorch.dir/src/glad.c.obj	55c0e63cd93221e
+18994	27008	7238043221992775	CMakeFiles/Scorch.dir/src/gui-implementation/GuiHandler.cpp.obj	8b993e44ee1cc03d
+107	7212	7239036345899074	CMakeFiles/Scorch.dir/src/rendering/Renderer.cpp.obj	8694481346fcf79d
+8	2604	7238042982968345	CMakeFiles/Scorch.dir/src/rendering/mesh-objects/IndexBuffer.cpp.obj	a855af559557ea3c
+170	4463	7238548383112758	CMakeFiles/Scorch.dir/src/rendering/mesh-objects/VertexArray.cpp.obj	41a89f1620aa745c
+17608	18993	7238043149868845	CMakeFiles/Scorch.dir/src/rendering/mesh-objects/VertexBuffer.cpp.obj	ec62d80ca41b724e
+49900	61043	7238043571616181	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_widgets.cpp.obj	f90fc23fbe3d247d
+40	14824	7239255489199702	CMakeFiles/Scorch.dir/src/Application.cpp.obj	79b9d2ea0d904b68
+30532	30878	7238043270014854	CMakeFiles/Scorch.dir/src/gui-implementation/GuiWrapper.cpp.obj	a4b1c01bb0f2153a
+26954	32327	7238043284440289	CMakeFiles/Scorch.dir/src/rendering/shader-objects/Texture.cpp.obj	7384751ed036e089
+27012	37059	7238043331679017	CMakeFiles/Scorch.dir/src/rendering/shader-objects/Shader.cpp.obj	af1ddef526130f93
+30878	37129	7238043332433895	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_tables.cpp.obj	83688ce456a21fa0
+37130	49810	7238043459273950	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_draw.cpp.obj	82c6ba292e5b8311
+37060	44552	7238043406729339	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_demo.cpp.obj	85c65e82e8ec04cf
+44553	47711	7238043438208688	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_impl_glfw.cpp.obj	72d9a7955fe7a7b
+47711	49612	7238043457306318	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui_impl_opengl3.cpp.obj	77f387faea23a953
+49811	49900	7238043460256831	CMakeFiles/Scorch.dir/src/physics/RigidBody.cpp.obj	652929ff4dafdea7
+32328	61067	7238043571735387	CMakeFiles/Scorch.dir/src/vendor/imgui/imgui.cpp.obj	43fbbe606e20bc73
+49613	61208	7238043573185760	CMakeFiles/Scorch.dir/src/vendor/stb_image/stb_image.cpp.obj	697e11fc4639ba80
+14837	16880	7239255511142150	Scorch.exe	9ae43825d7a5d018
+15	15148	7239749172841645	CMakeFiles/Scorch.dir/src/Application.cpp.obj	79b9d2ea0d904b68
+15160	16150	7239749183293374	Scorch.exe	9ae43825d7a5d018
+9	12003	7239749697955917	CMakeFiles/Scorch.dir/src/Application.cpp.obj	79b9d2ea0d904b68
+12011	12537	7239749703799642	Scorch.exe	9ae43825d7a5d018
+21	15589	7239756259586861	CMakeFiles/Scorch.dir/src/Application.cpp.obj	79b9d2ea0d904b68
+15598	16499	7239756269700755	Scorch.exe	9ae43825d7a5d018
